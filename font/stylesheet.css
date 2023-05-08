@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-BoldItalic.eot');
+    src: local('Mato Sans Bold Italic'), local('MatoSans-BoldItalic'),
+        url('MatoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-BoldItalic.woff2') format('woff2'),
+        url('MatoSans-BoldItalic.woff') format('woff'),
+        url('MatoSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-BlackItalic.eot');
+    src: local('Mato Sans Black Italic'), local('MatoSans-BlackItalic'),
+        url('MatoSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-BlackItalic.woff2') format('woff2'),
+        url('MatoSans-BlackItalic.woff') format('woff'),
+        url('MatoSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Regular.eot');
+    src: local('Mato Sans Regular'), local('MatoSans-Regular'),
+        url('MatoSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Regular.woff2') format('woff2'),
+        url('MatoSans-Regular.woff') format('woff'),
+        url('MatoSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-ExtraBoldItalic.eot');
+    src: local('Mato Sans Extra Bold Italic'), local('MatoSans-ExtraBoldItalic'),
+        url('MatoSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('MatoSans-ExtraBoldItalic.woff') format('woff'),
+        url('MatoSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-SemiBoldItalic.eot');
+    src: local('Mato Sans Semi Bold Italic'), local('MatoSans-SemiBoldItalic'),
+        url('MatoSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-SemiBoldItalic.woff2') format('woff2'),
+        url('MatoSans-SemiBoldItalic.woff') format('woff'),
+        url('MatoSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-ThinItalic.eot');
+    src: local('Mato Sans Thin Italic'), local('MatoSans-ThinItalic'),
+        url('MatoSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-ThinItalic.woff2') format('woff2'),
+        url('MatoSans-ThinItalic.woff') format('woff'),
+        url('MatoSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-ExtraBold.eot');
+    src: local('Mato Sans Extra Bold'), local('MatoSans-ExtraBold'),
+        url('MatoSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-ExtraBold.woff2') format('woff2'),
+        url('MatoSans-ExtraBold.woff') format('woff'),
+        url('MatoSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-ExtraLight.eot');
+    src: local('Mato Sans Extra Light'), local('MatoSans-ExtraLight'),
+        url('MatoSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-ExtraLight.woff2') format('woff2'),
+        url('MatoSans-ExtraLight.woff') format('woff'),
+        url('MatoSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-ExtraLightItalic.eot');
+    src: local('Mato Sans Extra Light Italic'), local('MatoSans-ExtraLightItalic'),
+        url('MatoSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-ExtraLightItalic.woff2') format('woff2'),
+        url('MatoSans-ExtraLightItalic.woff') format('woff'),
+        url('MatoSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-MediumItalic.eot');
+    src: local('Mato Sans Medium Italic'), local('MatoSans-MediumItalic'),
+        url('MatoSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-MediumItalic.woff2') format('woff2'),
+        url('MatoSans-MediumItalic.woff') format('woff'),
+        url('MatoSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Black.eot');
+    src: local('Mato Sans Black'), local('MatoSans-Black'),
+        url('MatoSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Black.woff2') format('woff2'),
+        url('MatoSans-Black.woff') format('woff'),
+        url('MatoSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Thin.eot');
+    src: local('Mato Sans Thin'), local('MatoSans-Thin'),
+        url('MatoSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Thin.woff2') format('woff2'),
+        url('MatoSans-Thin.woff') format('woff'),
+        url('MatoSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-SemiBold.eot');
+    src: local('Mato Sans Semi Bold'), local('MatoSans-SemiBold'),
+        url('MatoSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-SemiBold.woff2') format('woff2'),
+        url('MatoSans-SemiBold.woff') format('woff'),
+        url('MatoSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-LightItalic.eot');
+    src: local('Mato Sans Light Italic'), local('MatoSans-LightItalic'),
+        url('MatoSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-LightItalic.woff2') format('woff2'),
+        url('MatoSans-LightItalic.woff') format('woff'),
+        url('MatoSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Light.eot');
+    src: local('Mato Sans Light'), local('MatoSans-Light'),
+        url('MatoSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Light.woff2') format('woff2'),
+        url('MatoSans-Light.woff') format('woff'),
+        url('MatoSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Italic.eot');
+    src: local('Mato Sans Italic'), local('MatoSans-Italic'),
+        url('MatoSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Italic.woff2') format('woff2'),
+        url('MatoSans-Italic.woff') format('woff'),
+        url('MatoSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Bold.eot');
+    src: local('Mato Sans Bold'), local('MatoSans-Bold'),
+        url('MatoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Bold.woff2') format('woff2'),
+        url('MatoSans-Bold.woff') format('woff'),
+        url('MatoSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mato Sans';
+    src: url('MatoSans-Medium.eot');
+    src: local('Mato Sans Medium'), local('MatoSans-Medium'),
+        url('MatoSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MatoSans-Medium.woff2') format('woff2'),
+        url('MatoSans-Medium.woff') format('woff'),
+        url('MatoSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
